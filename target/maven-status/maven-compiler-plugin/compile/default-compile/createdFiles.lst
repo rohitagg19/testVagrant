@@ -1,0 +1,6 @@
+pageObject\NDTVHomePage.class
+pojoClass\TempratureComparator.class
+pageObject\WeatherClass.class
+pojoClass\TempratureObject.class
+pageObject\NDTVWeatherPage.class
+test\WeatherCheckTestCases.class

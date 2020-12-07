@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testVagrantTestSuit" duration-ms="44415" started-at="2020-12-06T22:22:38 IST" finished-at="2020-12-06T22:23:22 IST">
+    <groups>
+    </groups>
+    <test name="BasicTest" duration-ms="44415" started-at="2020-12-06T22:22:38 IST" finished-at="2020-12-06T22:23:22 IST">
+      <class name="test.WeatherCheckTestCases">
+        <test-method status="PASS" signature="getWeatherInformation()[pri:0, instance:test.WeatherCheckTestCases@e320068]" name="getWeatherInformation" is-config="true" duration-ms="5360" started-at="2020-12-06T22:22:38 IST" finished-at="2020-12-06T22:22:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherInformation -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:test.WeatherCheckTestCases@e320068]" name="startTest" is-config="true" duration-ms="56" started-at="2020-12-06T22:22:43 IST" finished-at="2020-12-06T22:22:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="exampleOfTestNgMaven()[pri:0, instance:test.WeatherCheckTestCases@e320068]" name="exampleOfTestNgMaven" duration-ms="38938" started-at="2020-12-06T22:22:43 IST" finished-at="2020-12-06T22:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exampleOfTestNgMaven -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:test.WeatherCheckTestCases@e320068]" name="endTest" is-config="true" duration-ms="28" started-at="2020-12-06T22:23:22 IST" finished-at="2020-12-06T22:23:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- test.WeatherCheckTestCases -->
+    </test> <!-- BasicTest -->
+  </suite> <!-- testVagrantTestSuit -->
+</testng-results>
