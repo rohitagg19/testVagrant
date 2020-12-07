@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+	<UIURL>https://www.ndtv.com/</UIURL>
+	<Degree>celsius</Degree>
+	<CityName>Ahmedabad</CityName>
+	<AllowedDeviation>12</AllowedDeviation>
+
+	<screenShots>yes</screenShots>
+	<MaxWaitForElement>60</MaxWaitForElement>
+
+	<BASEURI>https://api.openweathermap.org</BASEURI>
+	<BasePath>/data/2.5/weather</BasePath>
+	<APIToken>7fe67bf08c80ded756e598d6f8fedaea</APIToken>
+
+
+
+</values>
+
+
+
+
+
